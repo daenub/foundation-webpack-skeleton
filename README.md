@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-git clone git@github.com:daenub/foundation-webpack-boilerplate
+git clone git@github.com:daenub/foundation-webpack-skeleton
 yarn
 ```
 
